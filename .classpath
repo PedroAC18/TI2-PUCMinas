@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="com/ti2cc/" kind="src" path="Exercicio02/bancodedados/01ConexaoPostgres/src/main/java"/>
+	<classpathentry kind="src" path="Exercicio02/bancodedados/01ConexaoPostgres/src/main/java/com/ti2cc"/>
+	<classpathentry kind="src" path="Exercicio02/webservices/01HelloWorldSparkFramework/src/main/java"/>
+	<classpathentry kind="src" path="Exercicio02/webservices/02WebServiceSimples/src/main/java"/>
+	<classpathentry kind="src" path="Exercicio02/webservices/03ProdutoService/src/main/java"/>
+	<classpathentry kind="src" path="Unidade01/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
